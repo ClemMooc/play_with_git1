@@ -1,22 +1,22 @@
 # play_with_git1
-enjoy the vc workflow
+### enjoy the vc workflow
 
-HELLO WORLD!
+**_HELLO WORLD!_**
 
 THIS IS CLEM.
 GG.
 
-          .---.     .---.
-          ( -o- )---( -o- )
-          ;-...-`   `-...-;
-         /                 \
-        /                   \
-       | /_               _\ |
-       \`'.`'"--.....--"'`.'`/
-        \  '.   `._.`   .'  /
-     _.-''.  `-.,___,.-`  .''-._
-    `--._  `'-._______.-'`  _.--`
-    jgs  /                 \
-        /.-'`\   .'.   /`'-.\
-       `      '.'   '.' 
- 
+
+TODO:
+- ONE
+- TWO
+- THREE
+
+BUY:
+1. ONE
+2. TWO
+3. THREE
+
+>DONALD TRUMP
+
+```test code asdhiashdashdkjahsjkdhajskdhkjashdjahskjdhasjkdhjakshdkjashdkjashdkjsajkdhsakdskjadahusdhsahdshaduashkldasjkdjaskldjklasjdklaskldjkasdj```
